@@ -1,0 +1,46 @@
+# Giriş Sayfası
+
+Yere Yansıyan Modern Dijital Saat
+
+## İçerik Dosyaları
+
+İçerisinde bir adet **read.me**, **index.html**, **style.css**,**script.js** ve **img** dosyası bulunuyor.
+
+## Kullanılan Diller
+
+* Html
+* Css
+* Javascript
+
+## Katkıda Bulunmak 
+
+Çekme istekleri kabul edilir. Büyük değişiklikler için lütfen önce neyi değiştirmek istediğinizi tartışmak üzere bir konu açın.
+
+Lütfen testleri uygun şekilde güncellediğinizden emin olun.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+# Digital Clock
+
+Ground Reflecting Modern Digital Clock
+
+# Content Files
+
+It contains one read.me, index.html, style.css, script.js, and img files.
+
+# Used Languages
+
+* Html
+* Css
+* Javascript
+
+# Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
